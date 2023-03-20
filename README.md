@@ -8,7 +8,7 @@ Il progetto è formato da:
 
 -una classe pojo chiamata Item che servirà da template per i vari item da aggiungere al database.
 
--una repositery contenente l'interfaccia che servirà ad usare tutti i metodi CRUD relativi ad item.
+-una repository contenente l'interfaccia che servirà ad usare tutti i metodi CRUD relativi ad item.
 
 -un itemService che servira a contenere tutta la logica dietro a tutte le operazioni da effettuare.
 
