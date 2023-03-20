@@ -4,7 +4,7 @@ Creazione di un piccolo database per gestire dei prodotti all'interno di uno sto
 
 Il progetto è formato da:
 
--un main dal quale avviare il server locale.
+-un main dal quale avviare il server locale.\n
 -una classe pojo chiamata Item che servirà da template per i vari item da aggiungere al database.
 -una repositery contenente l'interfaccia che servirà ad usare tutti i metodi CRUD relativi ad item.
 -un itemService che servira a contenere tutta la logica dietro a tutte le operazioni da effettuare.
