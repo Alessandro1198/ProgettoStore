@@ -1,6 +1,6 @@
 # ProgettoStore
 
-Creazione di un piccolo database per gestire dei prodotti all'interno di uno store.
+Creazione di un piccolo database per gestire dei prodotti all'interno di uno store, realizzato con Spring Boot e Hibernate.
 
 Il progetto è formato da:
 
